@@ -4,13 +4,12 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import {faBook } from '@fortawesome/free-solid-svg-icons'
 import './Book.css'
 const Book = (props) => {
-    console.log(props.book);
     const {name,image,author,language,published,price} = props.book;
     const icon = <FontAwesomeIcon icon={faBook} />
     return (
         <div className ="book-container">
             <img src={image} alt="" />
-            <h5>Name : {name}</h5>
+            <h6>Name : {name}</h6>
             <p>By : {author}</p>
             <p>Language : {language}</p>
             <p>First published on : {published}</p>
