@@ -1,0 +1,13 @@
+.book-container {
+  text-align: center;
+  border: 2px solid lightgray;
+  background-color: wheat;
+  padding: 10px;
+}
+
+.book-container button {
+  cursor: pointer;
+}
+.book-container img {
+  width: 150px;
+}

@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51b7XbfMIIL.jpg",
+    "name": "Clean Code",
+    "author": "Robert Cecil Martin",
+    "published": 2008,
+    "language": "English",
+    "price": 40
+  },
+  {
+    "id": 2,
+    "image": "https://m.media-amazon.com/images/I/41L1w+gbsZL.jpg",
+    "name": "Code: The Hidden Language of Computer Hardware and Software",
+    "author": "Charles Petzold",
+    "published": 1999,
+    "language": "English",
+    "price": 66
+  },
+  {
+    "id": 3,
+    "image": "https://m.media-amazon.com/images/I/51cUVaBWZzL._AC_SY1000_.jpg",
+    "name": "The Pragmatic Programmer",
+    "author": "Dave Thomas",
+    "published": 1999,
+    "language": "English",
+    "price": 45
+  },
+  {
+    "id": 4,
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41T0iBxY8FL._SX440_BO1,204,203,200_.jpg",
+    "name": "Introduction to Algorithms",
+    "author": " Clifford Stein",
+    "published": 1989,
+    "language": "English",
+    "price": 95
+  },
+  {
+    "id": 5,
+    "image": "https://images-na.ssl-images-amazon.com/images/I/512uU-1z0qL.jpg",
+    "name": "Effective Java",
+    "author": "Joshua Bloch",
+    "published": 2001,
+    "language": "English",
+    "price": 129
+  },
+  {
+    "id": 6,
+    "image": "https://images-na.ssl-images-amazon.com/images/I/4149RF10H4L._SX323_BO1,204,203,200_.jpg",
+    "name": "Programming Pearls",
+    "author": " Jon Bentley",
+    "published": 1986,
+    "language": "English",
+    "price": 59
+  },
+  {
+    "id": 7,
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386925632l/44936.jpg",
+    "name": "Refactoring",
+    "author": " Martin Fowler",
+    "published": 1999,
+    "language": "English",
+    "price": 109
+  },
+  {
+    "id": 8,
+    "image": "https://images-na.ssl-images-amazon.com/images/I/817kywRJjVL.jpg",
+    "name": "Up & Going",
+    "author": "Kyle Simpson",
+    "published": 2015,
+    "language": "English",
+    "price": 120
+  },
+  {
+    "id": 9,
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41XlZrZZGjL.jpg",
+    "name": "Async & Performance",
+    "author": "Kyle Simpson",
+    "published": 2015,
+    "language": "English",
+    "price": 144
+  }
+]

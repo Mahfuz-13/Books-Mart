@@ -1,0 +1,14 @@
+.main-container {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+}
+
+.books-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 20px;
+}
+
+.books-container {
+  border-right: 1px solid lightgray;
+}
